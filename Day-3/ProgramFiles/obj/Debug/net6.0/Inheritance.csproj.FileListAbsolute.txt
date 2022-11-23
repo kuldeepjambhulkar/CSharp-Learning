@@ -1,0 +1,15 @@
+D:\Kuldeep\CSharpLearning1\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\Kuldeep\CSharpLearning1\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\Kuldeep\CSharpLearning1\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\Kuldeep\CSharpLearning1\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\Kuldeep\CSharpLearning1\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\refint\Inheritance.dll
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
+D:\Kuldeep\CSharpLearning1\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
