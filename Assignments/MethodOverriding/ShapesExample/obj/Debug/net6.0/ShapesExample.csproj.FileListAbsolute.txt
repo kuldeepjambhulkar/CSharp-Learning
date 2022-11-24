@@ -1,0 +1,15 @@
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\bin\Debug\net6.0\ShapesExample.exe
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\bin\Debug\net6.0\ShapesExample.deps.json
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\bin\Debug\net6.0\ShapesExample.runtimeconfig.json
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\bin\Debug\net6.0\ShapesExample.dll
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\bin\Debug\net6.0\ShapesExample.pdb
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.dll
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\refint\ShapesExample.dll
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.pdb
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ShapesExample.genruntimeconfig.cache
+D:\Kuldeep\CSharpLearning1\AssignmentMethodOverriding\ShapesExample\obj\Debug\net6.0\ref\ShapesExample.dll
