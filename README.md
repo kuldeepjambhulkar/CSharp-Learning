@@ -13,3 +13,7 @@
 - Methods in C#
 - Static & Instance methods
  
+ **Day 3:**
+- Inheritance
+- Single inheritance
+- Multilevel inheritance
