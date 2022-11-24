@@ -17,3 +17,8 @@
 - Inheritance
 - Single inheritance
 - Multilevel inheritance
+
+**Day 4:**
+- Polymorphism
+- Method overriding
+- `virtual` & `Override` keywords
