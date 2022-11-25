@@ -1,0 +1,15 @@
+D:\Kuldeep\CSharpLearning1\Interfaces\bin\Debug\net6.0\Interfaces.exe
+D:\Kuldeep\CSharpLearning1\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+D:\Kuldeep\CSharpLearning1\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+D:\Kuldeep\CSharpLearning1\Interfaces\bin\Debug\net6.0\Interfaces.dll
+D:\Kuldeep\CSharpLearning1\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.dll
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\refint\Interfaces.dll
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache
+D:\Kuldeep\CSharpLearning1\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll

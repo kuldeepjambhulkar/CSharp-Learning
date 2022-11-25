@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ProjectA.TeamA/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ProjectA.TeamA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.TeamA.dll": {}
+        }
+      },
+      "ProjectA.TeamB/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ProjectA.TeamB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjectA.TeamB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectA.TeamA/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA.TeamA/ProjectA.TeamA.csproj",
+      "msbuildProject": "../ProjectA.TeamA/ProjectA.TeamA.csproj"
+    },
+    "ProjectA.TeamB/1.0.0": {
+      "type": "project",
+      "path": "../ProjectA.TeamB/ProjectA.TeamB.csproj",
+      "msbuildProject": "../ProjectA.TeamB/ProjectA.TeamB.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ProjectA.TeamA >= 1.0.0",
+      "ProjectA.TeamB >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kulde\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Kuldeep\\CSharpLearning1\\NamespacesExample\\NamespacesExample.csproj",
+      "projectName": "NamespacesExample",
+      "projectPath": "D:\\Kuldeep\\CSharpLearning1\\NamespacesExample\\NamespacesExample.csproj",
+      "packagesPath": "C:\\Users\\kulde\\.nuget\\packages\\",
+      "outputPath": "D:\\Kuldeep\\CSharpLearning1\\NamespacesExample\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kulde\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Kuldeep\\CSharpLearning1\\ProjectA.TeamA\\ProjectA.TeamA.csproj": {
+              "projectPath": "D:\\Kuldeep\\CSharpLearning1\\ProjectA.TeamA\\ProjectA.TeamA.csproj"
+            },
+            "D:\\Kuldeep\\CSharpLearning1\\ProjectA.TeamB\\ProjectA.TeamB.csproj": {
+              "projectPath": "D:\\Kuldeep\\CSharpLearning1\\ProjectA.TeamB\\ProjectA.TeamB.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

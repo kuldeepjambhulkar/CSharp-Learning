@@ -1,0 +1,12 @@
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.deps.json
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.dll
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.pdb
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.dll
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\refint\ProjectA.TeamA.dll
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.pdb
+D:\Kuldeep\CSharpLearning1\ProjectA.TeamA\obj\Debug\net6.0\ref\ProjectA.TeamA.dll
