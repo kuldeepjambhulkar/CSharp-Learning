@@ -1,0 +1,12 @@
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\bin\Debug\net6.0\Person.Teacher.deps.json
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\bin\Debug\net6.0\Person.Teacher.dll
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\bin\Debug\net6.0\Person.Teacher.pdb
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.dll
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\refint\Person.Teacher.dll
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\Person.Teacher.pdb
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Teacher\obj\Debug\net6.0\ref\Person.Teacher.dll

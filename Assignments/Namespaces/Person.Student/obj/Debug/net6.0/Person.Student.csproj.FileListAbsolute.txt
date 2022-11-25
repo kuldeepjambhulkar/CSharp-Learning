@@ -1,0 +1,12 @@
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\bin\Debug\net6.0\Person.Student.deps.json
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\bin\Debug\net6.0\Person.Student.dll
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\bin\Debug\net6.0\Person.Student.pdb
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.dll
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\refint\Person.Student.dll
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\Person.Student.pdb
+D:\Kuldeep\CSharpLearning1\NamespacesExample\Person.Student\obj\Debug\net6.0\ref\Person.Student.dll

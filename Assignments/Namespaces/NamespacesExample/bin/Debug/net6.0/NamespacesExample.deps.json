@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NamespacesExample/1.0.0": {
+        "dependencies": {
+          "Person.Student": "1.0.0",
+          "Person.Teacher": "1.0.0"
+        },
+        "runtime": {
+          "NamespacesExample.dll": {}
+        }
+      },
+      "Person.Student/1.0.0": {
+        "runtime": {
+          "Person.Student.dll": {}
+        }
+      },
+      "Person.Teacher/1.0.0": {
+        "runtime": {
+          "Person.Teacher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NamespacesExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Person.Student/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Person.Teacher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
