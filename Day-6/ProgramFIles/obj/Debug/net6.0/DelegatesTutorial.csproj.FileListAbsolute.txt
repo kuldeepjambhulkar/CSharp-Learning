@@ -1,0 +1,15 @@
+D:\other\Study\C#\DelegatesTutorial\bin\Debug\net6.0\DelegatesTutorial.exe
+D:\other\Study\C#\DelegatesTutorial\bin\Debug\net6.0\DelegatesTutorial.deps.json
+D:\other\Study\C#\DelegatesTutorial\bin\Debug\net6.0\DelegatesTutorial.runtimeconfig.json
+D:\other\Study\C#\DelegatesTutorial\bin\Debug\net6.0\DelegatesTutorial.dll
+D:\other\Study\C#\DelegatesTutorial\bin\Debug\net6.0\ref\DelegatesTutorial.dll
+D:\other\Study\C#\DelegatesTutorial\bin\Debug\net6.0\DelegatesTutorial.pdb
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.csproj.AssemblyReference.cache
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.AssemblyInfoInputs.cache
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.AssemblyInfo.cs
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.csproj.CoreCompileInputs.cache
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.dll
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\ref\DelegatesTutorial.dll
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.pdb
+D:\other\Study\C#\DelegatesTutorial\obj\Debug\net6.0\DelegatesTutorial.genruntimeconfig.cache
