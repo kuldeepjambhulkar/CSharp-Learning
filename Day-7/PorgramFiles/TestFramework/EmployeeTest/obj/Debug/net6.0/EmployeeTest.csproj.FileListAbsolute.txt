@@ -1,0 +1,12 @@
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\bin\Debug\net6.0\EmployeeTest.deps.json
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\bin\Debug\net6.0\EmployeeTest.dll
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\bin\Debug\net6.0\EmployeeTest.pdb
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.dll
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\refint\EmployeeTest.dll
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\EmployeeTest.pdb
+D:\Kuldeep\CSharpLearning1\TestFramework\EmployeeTest\obj\Debug\net6.0\ref\EmployeeTest.dll
