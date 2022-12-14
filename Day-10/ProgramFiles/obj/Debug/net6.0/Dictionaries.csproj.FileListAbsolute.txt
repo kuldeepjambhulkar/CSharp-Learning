@@ -1,0 +1,15 @@
+D:\Kuldeep\CSharpLearning1\Dictionaries\bin\Debug\net6.0\Dictionaries.exe
+D:\Kuldeep\CSharpLearning1\Dictionaries\bin\Debug\net6.0\Dictionaries.deps.json
+D:\Kuldeep\CSharpLearning1\Dictionaries\bin\Debug\net6.0\Dictionaries.runtimeconfig.json
+D:\Kuldeep\CSharpLearning1\Dictionaries\bin\Debug\net6.0\Dictionaries.dll
+D:\Kuldeep\CSharpLearning1\Dictionaries\bin\Debug\net6.0\Dictionaries.pdb
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.dll
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\refint\Dictionaries.dll
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.pdb
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\Dictionaries.genruntimeconfig.cache
+D:\Kuldeep\CSharpLearning1\Dictionaries\obj\Debug\net6.0\ref\Dictionaries.dll
