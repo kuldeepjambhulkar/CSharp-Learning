@@ -43,7 +43,6 @@
 - Partial Classes
 
 **Day: 10:**  
-*🟡[Program files pending]*
 - Dictionary
 
 **Day: 11:**   
