@@ -1,0 +1,15 @@
+D:\Kuldeep\CSharpLearning1\PartialClasses\bin\Debug\net6.0\PartialClasses.exe
+D:\Kuldeep\CSharpLearning1\PartialClasses\bin\Debug\net6.0\PartialClasses.deps.json
+D:\Kuldeep\CSharpLearning1\PartialClasses\bin\Debug\net6.0\PartialClasses.runtimeconfig.json
+D:\Kuldeep\CSharpLearning1\PartialClasses\bin\Debug\net6.0\PartialClasses.dll
+D:\Kuldeep\CSharpLearning1\PartialClasses\bin\Debug\net6.0\PartialClasses.pdb
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.dll
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\refint\PartialClasses.dll
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.pdb
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\PartialClasses.genruntimeconfig.cache
+D:\Kuldeep\CSharpLearning1\PartialClasses\obj\Debug\net6.0\ref\PartialClasses.dll
