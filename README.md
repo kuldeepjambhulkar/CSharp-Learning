@@ -29,21 +29,17 @@
 - Namespace
 
 **Day 6:**  
-*🟡[Program files pending]*
 - Delegates
 
 **Day: 7:**  
-*🟡[Program files pending]*  
 - MSTest Framework   
 - Pass by value, pass by reference 
 
 **Day: 8:**  
-*🟡[Program files pending]*
 - Try-throw-catch-finally
 - Throw and throw ex 
 
 **Day: 9:**  
-*🟡[Program files pending]*
 - Partial Classes
 
 **Day: 10:**  
