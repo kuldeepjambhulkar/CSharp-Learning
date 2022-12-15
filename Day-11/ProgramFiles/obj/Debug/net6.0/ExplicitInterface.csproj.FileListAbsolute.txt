@@ -1,0 +1,15 @@
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.exe
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.deps.json
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.runtimeconfig.json
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.dll
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\bin\Debug\net6.0\ExplicitInterface.pdb
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.csproj.AssemblyReference.cache
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.AssemblyInfoInputs.cache
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.AssemblyInfo.cs
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.csproj.CoreCompileInputs.cache
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.dll
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\refint\ExplicitInterface.dll
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.pdb
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ExplicitInterface.genruntimeconfig.cache
+D:\Kuldeep\CSharpLearning1\ExplicitInterface\obj\Debug\net6.0\ref\ExplicitInterface.dll
