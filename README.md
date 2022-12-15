@@ -46,5 +46,4 @@
 - Dictionary
 
 **Day: 11:**   
-*🟡[Program files pending]*
 - Explicit interfaces
